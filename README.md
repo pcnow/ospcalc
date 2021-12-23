@@ -8,7 +8,8 @@ Yes? You on true way! I'm PCNow!
 It's my first project on Python. I made it when learn it.
 I made this in Sublime Text 3, compile in PyInstaller,
 and made installer in WinRar.
-Oh, yes, there is a russian installer, because i'm from Russia!
+Oh, yes, there is a russian version, because i'm from Russia!
+English version can be relesed in v1.1.
 Bye!
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This is a russian variant. English is above.
